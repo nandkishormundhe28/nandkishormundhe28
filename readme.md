@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">## 👋 About Me<br><br>✨ Creating bugs since 2024 — and fixing most of them with coffee and console logs  <br>📚 Currently learning Spring Boot and React to level up as a full stack developer  <br>🎯 Goals: Build impactful web apps, grow as a Java developer, and explore open source contributions  <br>🎲 Fun fact: I built a chat app before learning how to deploy one 😄</p>
+<p align="left">## 👋Hi, I’m Nandkishor Mundhe
+💻 Aspiring Full Stack Developer with skills in .NET, PHP, MySQL, JavaScript, HTML, CSS, and React/Angular.
+🚀 Passionate about building web applications, solving problems, and continuously learning new technologies.
+📊 Interested in Web Development, Databases, and Machine Learning applications.
+📚 Currently working on projects like Employee Management System and Stock Forecasting using ML.
+🌱 I believe in growing step by step — learning by doing.<br><br>✨ Creating bugs since 2024 — and fixing most of them with coffee and console logs  <br>📚 Currently learning Spring Boot and React to level up as a full stack developer  <br>🎯 Goals: Build impactful web apps, grow as a Java developer, and explore open source contributions  <br>🎲 Fun fact: I built a chat app before learning how to deploy one 😄</p>
 
 ###
 
