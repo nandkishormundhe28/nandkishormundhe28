@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">I'm an adaptive computer engineering graduate skilled in Java, Python, & modern Web technologies. I enjoy building clean, responsive, and user-friendly applications with attention to accessibility and maintainability.</h2>
 
 <p align="left">## </p>
 
