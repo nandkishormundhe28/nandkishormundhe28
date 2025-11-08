@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nandkishor Mundhe</h1>
-<h3 align="center">💻 Full Stack Developer | Java • Python • Web Technologies | Pune, India</h3>
+<h3 align="center">💻 Full Stack Developer | Java • Python • Web Technologies | Pune,Maharashtra India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7A81B&center=true&vCenter=true&width=450&lines=Turning+Coffee+into+Code;Full+Stack+Developer+from+India;Lifelong+Learner+💡" />
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Web Apps & Machine Learning projects**  
-- 🌱 I’m learning **React, Flask, and Data Visualization**  
+- 🌱 I’m learning **React, Flask, and Data Visualization, Microsoft Azure**  
 - 💬 Ask me about **HTML, CSS, JS, Python, SQL, PHP**  
 - ⚡ Fun fact: I turn ☕ into clean & maintainable code!  
 
