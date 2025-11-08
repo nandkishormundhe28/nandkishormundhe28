@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Web Apps & Machine Learning projects**  
 - 🌱 I’m learning **React, Flask, and Data Visualization, Microsoft Azure**  
-- 💬 Ask me about **HTML, CSS, JS, Python, SQL, PHP, Java**  
+- 💬 Ask me about **HTML, CSS, JS, Python, SQL, PHP, JAVA**  
 - ⚡ Fun fact: I turn ☕ into clean & maintainable code!  
 
 ---
