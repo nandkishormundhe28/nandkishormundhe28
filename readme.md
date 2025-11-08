@@ -22,14 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandkishormundhe28&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandkishormundhe28&layout=compact&theme=radical" height="160"/>
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nandkishor-mundhe-"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
