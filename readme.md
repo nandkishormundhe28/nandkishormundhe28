@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm Nandkishor Mundhe</h1>
-<h3 align="center">💻 Full Stack Developer | Java • Python • Web Technologies | Pune,Maharashtra India</h3>
+<h3 align="center">💻 Full Stack Developer | Java • Python • Web Technologies | Pune, Maharashtra India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7A81B&center=true&vCenter=true&width=450&lines=Turning+Coffee+into+Code;Full+Stack+Developer+from+India;Lifelong+Learner+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7A81B&center=true&vCenter=true&width=450&lines=Turning+Coffee+into+Code;Full+Stack+Developer+from+Pune;Lifelong+Learner+💡" />
 </p>
 
 ---
