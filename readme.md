@@ -32,9 +32,10 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/nandkishor-mundhe-"></a>
+  <a href="https://www.linkedin.com/in/nandkishor-mundhe-"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:nandkishormundhe28@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/nandkishormundhe28"><img src="https://skillicons.dev/icons?i=github" /></a>
+  
 </p>
 
 ---
