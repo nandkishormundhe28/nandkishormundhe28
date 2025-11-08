@@ -30,13 +30,6 @@
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nandkishormundhe28&theme=onedark&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nandkishormundhe28"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
