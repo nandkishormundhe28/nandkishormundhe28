@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Nandkishor Mundhe</h1>
+<h1 align="center"> I'm Nandkishor Mundhe</h1>
 <h3 align="center">💻 Full Stack Developer | Java • Python • Web Technologies | Pune, Maharashtra India</h3>
 
 <p align="center">
